@@ -1,6 +1,0 @@
-EOF
-[server]
-headless = true
-enableXsrfProtection = false
-enableCORS = false
-EOF
